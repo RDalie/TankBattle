@@ -1,0 +1,9 @@
+SECTOR FIVE
+
+1. Change it from Object Oriented Based to Stuctural Programming Based.
+2. Change the theme to something else:
+	Possible Themes:
+	1. Tank Game
+	2. Dragon Game
+3. Make the enemies follow the player. (Use an AI algorithm maybe)
+
